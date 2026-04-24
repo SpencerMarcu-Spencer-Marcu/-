@@ -14,12 +14,9 @@ This repository is for Spencer Marcu, an American singer-songwriter. It includes
 - **Deployment**: Azure Web Apps via GitHub Actions
 
 ### Build & Test
-```bash
-npm install
-npm run build   # if a build step is defined
-npm run test    # if tests are defined
-```
+This repository does not currently include a `package.json`, so there are no local npm install/build/test commands defined yet.
 
+Use the existing GitHub Actions and Azure Web Apps deployment workflow as the source of truth for build and deployment behavior. If Node project files and npm scripts are added later, update this section and `README.md` with the exact commands to run locally.
 ### Coding Conventions
 - Follow standard Node.js/JavaScript best practices
 - Keep dependencies up to date and minimal
