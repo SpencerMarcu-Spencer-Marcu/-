@@ -10,7 +10,7 @@ This repository is for Spencer Marcu, an American singer-songwriter. It includes
 ## Development Guidelines
 
 ### Tech Stack
-- **Runtime**: Node.js (v14.x or later)
+- **Runtime**: Node.js (v20.x or later)
 - **Deployment**: Azure Web Apps via GitHub Actions
 
 ### Build & Test
